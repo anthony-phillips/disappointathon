@@ -1,0 +1,8 @@
+﻿  ConsoleApplication3.cpp
+c:\users\spiro\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\spiro\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\spiro\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3.cpp(96): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\spiro\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3.cpp(97): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\spiro\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3.cpp(98): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\Spiro\Documents\Visual Studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Spiro\Documents\Visual Studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)
